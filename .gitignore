@@ -161,3 +161,4 @@ cython_debug/
 
 # Adding this due to some git lfs issue
 test-trainer/*
+model_checkpoint/*
